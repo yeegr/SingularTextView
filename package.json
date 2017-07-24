@@ -1,0 +1,20 @@
+{
+  "name": "singular-textview",
+  "version": "1.0.0",
+  "description": "React Native component for global text views",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeegr/SingularTextView.git"
+  },
+  "keywords": ["React", "React Native", "Text", "TextView", "font"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeegr/SingularTextView/issues"
+  },
+  "homepage": "https://github.com/yeegr/SingularTextView#readme"
+}
